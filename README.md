@@ -8,9 +8,9 @@
 
 ## 示例展示
 
-下图为使用本 Skill 为《家庭 AI 主机规划》生成的概念配图示例（小刘鸭作为核心动作主体，认真守护家庭数据保险箱，同时向家电设备分发算力与控制）：
+下图为专门为本 Skill（小刘鸭正文配图）生成的概念配图示例（小刘鸭作为文章配图助手，一手认真研读密密麻麻的长文草稿，一手在画架上随手勾勒生动好懂的手绘解释图）：
 
-![小刘鸭正文配图示例](assets/examples/01-home-ai-safe-hub.png)
+![小刘鸭正文配图示例](assets/examples/01-skill-cover.png)
 
 ---
 
@@ -47,7 +47,7 @@ xiaoliuya/
 │   └── qa-checklist.md               # 成图质量检查与迭代复审清单
 └── assets/
     ├── examples/                     # 真实生成案例图库
-    │   └── 01-home-ai-safe-hub.png   # 示例配图
+    │   └── 01-skill-cover.png        # 本 Skill 专属封面示例配图
     └── xiaoliuya-reference/          # 视觉对齐基准资源
         ├── contact-sheet.jpg         # 核心校准底图（生图前必须读取对齐）
         └── set1-01.png ~ set3-24.png # 64 张官方参考表情切片
